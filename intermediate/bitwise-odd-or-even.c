@@ -5,7 +5,7 @@
 
 int main()
 {
-    int num, mask = 0x2;
+    int num, mask = 0x1;
 
     printf("Enter a number: ");
     scanf("%d", &num);
