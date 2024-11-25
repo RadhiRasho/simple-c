@@ -1,10 +1,8 @@
 // To calculate Area and Circumference of a circle
 
-#define _GNU_SOURCE // USE GNU SOURCE as our header macro defaults (used for M_PI here)
+#define _GNU_SOURCE // USE GNU SOURCE as our Math header macro defaults (used for M_PI here)
 #include <stdio.h>
 #include <math.h>
-
-// #define M_PI 3.14159265358979323846
 
 int main()
 {
